@@ -1,0 +1,10 @@
+C:\Users\schip\source\repos\frak\frak\bin\Debug\frak.exe.config
+C:\Users\schip\source\repos\frak\frak\bin\Debug\frak.exe
+C:\Users\schip\source\repos\frak\frak\bin\Debug\frak.pdb
+C:\Users\schip\source\repos\frak\frak\obj\Debug\frak.csprojAssemblyReference.cache
+C:\Users\schip\source\repos\frak\frak\obj\Debug\frak.Form1.resources
+C:\Users\schip\source\repos\frak\frak\obj\Debug\frak.Properties.Resources.resources
+C:\Users\schip\source\repos\frak\frak\obj\Debug\frak.csproj.GenerateResource.cache
+C:\Users\schip\source\repos\frak\frak\obj\Debug\frak.csproj.CoreCompileInputs.cache
+C:\Users\schip\source\repos\frak\frak\obj\Debug\frak.exe
+C:\Users\schip\source\repos\frak\frak\obj\Debug\frak.pdb
